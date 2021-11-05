@@ -2,7 +2,7 @@
 
 This is `React-Spotify`, a React front end client that communicates with the Spotify API.
 
-See it in action [here]
+See it in action [here](http://github.com/Ak4shh/spotify).
 
 
 
